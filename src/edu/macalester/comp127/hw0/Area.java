@@ -1,7 +1,7 @@
 package edu.macalester.comp127.hw0;
 
 /**
- * @author Shilad Sen, edited by Nate Gorjance
+ * @author Shilad Sen
  */
 public class Area {
     /**
@@ -21,7 +21,7 @@ public class Area {
      */
     public static double getCircleArea(double radius) {
         // TODO: replace me with the correct formula
-        return radius * 2.0;
+        return radius * radius * 3.14159;
     }
 
 }
