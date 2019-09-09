@@ -1,7 +1,7 @@
 package edu.macalester.comp127.hw0;
 
 /**
- * @author Shilad Sen, edited by Nate Gorjance
+ * @author Shilad Sen, edited by Nate Gorjance.
  */
 public class Area {
     /**
